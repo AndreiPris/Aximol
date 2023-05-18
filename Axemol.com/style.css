@@ -318,7 +318,7 @@ td, tr, th{
 }
 
 .sidebar {
-    position: sticky;
+    position: fixed;
     top: -1px;
     right: 0;
     width: 500px;
